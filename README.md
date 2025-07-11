@@ -79,6 +79,3 @@ Drag & Drop | Intuitive task management | Quản lý task trực quan
 
 [Nuclear Scheduler - English Summary Table.pdf](https://github.com/user-attachments/files/21186127/Nuclear.Scheduler.-.English.Summary.Table.pdf)
 
-**Full Changelog**: https://github.com/tohican/desktop-tutorial/commits/tohican
-
-**Full Changelog**: https://github.com/tohican/desktop-tutorial/commits/tohican
